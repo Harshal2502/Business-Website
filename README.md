@@ -1,3 +1,3 @@
 # Business-Website
 
-A sample website for my fictional small business
+A sample website for my small fictional business
